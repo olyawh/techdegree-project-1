@@ -1,0 +1,29 @@
+body {
+  font-family: "Arial";
+}
+
+.main-image {
+  border: solid 3px #2E8B57;
+  border-radius: 35%;
+  height: 15%;
+  width: 15%;
+}
+
+h1 {
+  background-color:#78A489;
+  padding: 5px;
+}
+
+.section-title {
+  text-transform: capitalize;
+  color: #78A489;
+}
+
+p {
+  text-align: justify;
+}
+
+.image-city{
+  border: solid 2px #78A489;
+  border-radius: 10%;
+}
